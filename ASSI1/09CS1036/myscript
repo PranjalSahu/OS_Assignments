@@ -1,0 +1,4 @@
+gcc -Wall shell.c -o shell
+gcc -Wall run.c -o run
+gcc -Wall xsort.c -o xsort
+gcc -Wall sort1.c -o sort1

@@ -1,0 +1,2 @@
+Wait the parent for 4 semaphores which will be signalled by different child processes.
+Wait all the child processes at the starting by a single semaphore since all will work simultaneously in different area.
